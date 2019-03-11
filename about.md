@@ -4,15 +4,32 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Sobre mim
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Eduardo, amante por desenvolvimento web, há mais de 10 anos fazendo isso profissionalmente. Já atuei em diversos projetos e sempre doando o máximo de mim para cada um deles.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Atualmente sou desenvolvedor frontend na [Printi](https://www.printi.com.br), e já passei por muitas outras, como: [Infracommerce](http://www.infracommerce.com.br), [00k](https://www.00k.com.br/), [Sala Criativa](http://salacriativa.com.br/) e uma infinidade de agências de publicidade.
+
+Fora do trabalho eu fico mais próximo da família, e tento começar alguns projetos pessoais (inclusive esse blog), gosto de animais, café, cerveja, música e sair (não necessariamente nessa ordem).
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+## Habilidades
+
+- Javascript
+
+- ReactJS / Redux
+
+- HTML / CSS
+
+- PHP
+
+- Ruby On Rails
+
+- MySQL
+
+- Git
+
+- NodeJS
+
+- Scrum
